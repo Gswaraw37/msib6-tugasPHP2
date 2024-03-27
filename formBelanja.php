@@ -166,9 +166,3 @@
     <script src="js/scripts.js"></script>
   </body>
 </html>
-
-
-
-<div class="col-8">
-	
-</div>
